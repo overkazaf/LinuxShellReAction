@@ -25,3 +25,16 @@ script -t 2> time.log output.session
 * find . -name "*.js"
 * find . -iname "*.js"
 * find . -iregex "*.\(js|html\)$"
+* find . ! -name "xxx"  // 名字不为xxx的
+* find . -maxdepth 12 // maxdepth和mindepth应该尽早出现， 否则会影响find命令的效率
+* find . -option xxx -mtime // atime, ctime
+
+
+##xargs
+###将多行输入转为单行
+cat xxx | xargs
+
+###将单行转为多行
+cat xxx | xargs -n 3
+
+

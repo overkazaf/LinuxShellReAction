@@ -88,4 +88,46 @@ usage: script [-adkpqr] [-t time] [file [command ...]]
 ]2;cd LinuxShellReAction]1;cd[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction]1;..ShellReAction[0m[27m[24m[J
 [1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:27:39]
 [1m[31m$ [00m[K[?1h=ggit ad dd *[?1l>
-]2;git add *]1;git
+]2;git add *]1;git[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction]1;..ShellReAction[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:27:42]
+[1m[31m$ [00m[K[?1h=ggit commit -m ''a'm'm'' ' ' a'p'p'e'n'd' 'n'e'w' 's'h'e'l'l' 't'i'' ' t'r'i'c'k'' k'y'' e'' i'e's'[1C[?1l>
+]2;git commit -m 'append new shell trickies']1;git[master b719a70] append new shell trickies
+ 5 files changed, 7222 insertions(+)
+ create mode 100644 pipe/jsNhtmlList.txt
+ create mode 100644 pipe/jslist.txt
+ create mode 100644 pipe/output.session
+ create mode 100644 pipe/time.log
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction]1;..ShellReAction[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:28:06]
+[1m[31m$ [00m[K[?1h=ggit push[?1l>
+]2;git push]1;gitwarning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 7, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 50.13 KiB | 0 bytes/s, done.
+Total 7 (delta 0), reused 0 (delta 0)
+To https://github.com/overkazaf/LinuxShellReAction.git
+   bdbf26e..b719a70  master -> master
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction]1;..ShellReAction[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:28:14]
+[1m[31m$ [00m[K[?1h=
