@@ -1,0 +1,91 @@
+Script started on Sat Nov 28 23:15:46 2015
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:15:47]
+[1m[31m$ [00m[K[?1h=aafsafsdfsfsadf[?1l>
+]2;afsafsdfsfsadf]1;afsafsdfsfsadfzsh: command not found: afsafsdfsfsadf
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:15:51]
+[1m[31m$ [00m[K[?1h=ssfd[?1l>
+]2;sfd]1;sfdzsh: command not found: sfd
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:15:51]
+[1m[31m$ [00m[K[?1h=aasfsdf[?1l>
+]2;asfsdf]1;asfsdfzsh: command not found: asfsdf
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:15:52]
+[1m[31m$ [00m[K[?1h=
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:15:54]
+[1m[31m$ [00m[K[?1h=sscriptplay time.log[1m [0m[0m out
+[J[0mout.txt         [Joutput.session[J[A[0m[27m[24m[2Cscriptplay time.log out[Kput.session[1m [0m[0m [?1l>
+[J]2;scriptplay time.log output.session]1;scriptplayzsh: command not found: scriptplay
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:16:04]
+[1m[31m$ [00m[K[?1h=scriptplay time.log output.session[34D[1C[1C[1C[1C[1C[1Crplay time.log output.session[28Deplay time.log output.session[28D[?1l>
+]2;scriptreplay time.log output.session]1;scriptreplayzsh: command not found: scriptreplay
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:16:20]
+[1m[31m$ [00m[K[?1h=bbrew instal l scriptreplay[?1l>
+]2;brew install scriptreplay]1;brew[4;31mError[0m: No available formula with the name "scriptreplay" 
+[1;34m==>[1;39m Searching for similarly named formulae...[0m
+[4;31mError[0m: No similarly named formulae found.
+[1;34m==>[1;39m Searching taps...[0m
+[4;31mError[0m: No formulae found in taps.
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:16:35]
+[1m[31m$ [00m[K[?1h=mmake  m mkfifo scriptfifo[?1l>
+]2;mkfifo scriptfifo]1;mkfifo[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:17:35]
+[1m[31m$ [00m[K[?1h=sscript    s  sscript -f scriptfifo[1m [0m[0m [?1l>
+]2;script -f scriptfifo]1;scriptscript: illegal option -- f
+usage: script [-adkpqr] [-t time] [file [command ...]]
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:18:20]
+[1m[31m$ [00m[K[?1h=sscript -f scriptfifo[1m [0m[0m [?1l>
+]2;script -f scriptfifo]1;scriptscript: illegal option -- f
+usage: script [-adkpqr] [-t time] [file [command ...]]
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:01]
+[1m[31m$ [00m[K[?1h=ccommands[?1l>
+]2;commands]1;commandszsh: command not found: commands
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:10]
+[1m[31m$ [00m[K[?1h=lls[?1l>
+]2;ls -G]1;lsout.txt        output.session [33mscriptfifo[39;49m[0m     time.log
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:38]
+[1m[31m$ [00m[K[?1h=ccls[?1l>
+]2;cls]1;clszsh: command not found: cls
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:40]
+[1m[31m$ [00m[K[?1h=ccls[?1l>
+]2;cls]1;clszsh: command not found: cls
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:41]
+[1m[31m$ [00m[K[?1h=ppwd[?1l>
+]2;pwd]1;pwd/Users/overkazaf/Desktop/codes/git/LinuxShellReAction/pipe
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:58]
+[1m[31m$ [00m[K[?1h=[H[2J[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:58]
+[1m[31m$ [00m[K[H[2J[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:58]
+[1m[31m$ [00m[K[H[2J[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:58]
+[1m[31m$ [00m[K[H[2J[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:19:58]
+[1m[31m$ [00m[Klls[?1l>
+]2;ls -G]1;lsjsNhtmlList.txt jslist.txt      out.txt         output.session  [33mscriptfifo[39;49m[0m      time.log
+[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction/pipe]1;..ReAction/pipe[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction/pipe[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:27:30]
+[1m[31m$ [00m[K[?1h=ccd ..[?1l>
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction]1;..ShellReAction[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:27:31]
+[1m[31m$ [00m[K[?1h=ccd ..[?1l>
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git]1;..top/codes/git[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git[00m [37m[23:27:33]
+[1m[31m$ [00m[K[?1h=ccd LinuxShellReAction[1m/[0m[0m [?1l>
+]2;cd LinuxShellReAction]1;cd[1m[7m%[27m[1m[0m                                                                                                                        ]2;overkazaf@overkazafdeMacBook-Air: ~/Desktop/codes/git/LinuxShellReAction]1;..ShellReAction[0m[27m[24m[J
+[1m[34m#[00m [36moverkazaf [37mat [32moverkazafdeMacBook-Air.local [37min [1m[33m~/Desktop/codes/git/LinuxShellReAction[00m [37mon[00m git:[36mmaster [31mx[00m [37m[23:27:39]
+[1m[31m$ [00m[K[?1h=ggit ad dd *[?1l>
+]2;git add *]1;git
