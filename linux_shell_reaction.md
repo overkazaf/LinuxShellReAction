@@ -9,7 +9,7 @@ example:
 
 ```
 
->上述会创建无穷的子进程， 导致ddop，解决方法是可以通过修改
+>上述会创建无穷的子进程， 导致ddos，解决方法是可以通过修改
 /etc/security/limits.conf文件来限制最大子进程数
 
 ***
@@ -37,4 +37,32 @@ cat xxx | xargs
 ###将单行转为多行
 cat xxx | xargs -n 3
 
+###排序
+sort -nrk 4
 
+* `-n` 是输出行号
+* `-r` 是逆序
+* `-k` 是指定列
+
+
+### head & tail
+* head -n N 
+* tail -n N
+
+
+### pushd & popd
+*  pushd path  用于将路径压入栈中
+*  dirs 查看当前路径栈有什么路径
+*  popd 用于弹栈
+
+
+### 统计文件的行数， 字符数， 单词数
+* wc filename 默认输出文件的行数，单词数，字符数
+* wc -l 行
+* wc -w 单词
+* wc -c 字符
+
+
+
+### 正则
+grep pattern filename
