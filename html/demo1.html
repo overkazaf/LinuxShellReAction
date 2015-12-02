@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<meta charset="utf-9">
+	<meta charset="utf-8">
 	<title>Event Tests</title>
 </head>
 
@@ -36,8 +36,21 @@ auto;width:120px;height:40px;line-height:40px;text-align:center;background:#09f;
 				var ev = ev || window.event;
 				return ev;
 			},
+			stopPropagation : function (ev){
+				if (ev.stopPropagation) {
+					ev.stopPropagation();
+				} else {
+					window.event.cancelBubble = true;
+				}
+			},
+			preventDefault : function (ev) {
+				if (ev.preventDefault) {
+					ev.preventDefault();
+				} else {
+					window.returnValue = false;
+				}
+			},
 			getKeyCode: function(ev) {
-				console.log('charCode', ev.charCode);
 				if (typeof ev.charCode === 'number') {
 					return ev.charCode;
 				}
