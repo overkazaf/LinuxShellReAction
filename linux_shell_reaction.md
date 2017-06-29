@@ -66,3 +66,20 @@ sort -nrk 4
 
 ### 正则
 grep pattern filename
+
+
+
+## Update 2017/06/29
+### 常用命令
+
+查看文件类型
+>file filename
+
+查看文件前n行(默认10行)
+>head -n 15 filename
+
+显示磁盘使用情况
+>du path
+
+查看文件倒数n行(默认10行)
+>tail -n 15 filename
