@@ -81,5 +81,19 @@ grep pattern filename
 显示磁盘使用情况
 >du path
 
+浮点计算工具
+>bc
+
+### shell
+
+读变量
+>read -p "message" var
+
+错误重定向
+>cat abc 2> error.log
+
+同一重定向
+>cat abc &> common.log
+
 查看文件倒数n行(默认10行)
 >tail -n 15 filename
